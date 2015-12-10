@@ -1,0 +1,28 @@
+name: beasat
+favicon: null
+layout_spectrum: 0.0791452017147094
+typography_spectrum: 0.014517141971737146
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.18355756835080683
+  lightness: 0.9761704939883202
+  saturation: 0.5283056499902159
+  rhythmicContrast: 0.9904303017538041
+purpose: []
